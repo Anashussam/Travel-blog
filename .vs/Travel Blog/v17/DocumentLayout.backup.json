@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|c:\\users\\anas qadora\\desktop\\travel blog\\travel blog\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|solutionrelative:travel blog\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|c:\\users\\anas qadora\\desktop\\travel blog\\travel blog\\pages\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|solutionrelative:travel blog\\pages\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|c:\\users\\anas qadora\\desktop\\travel blog\\travel blog\\pages\\destinations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|solutionrelative:travel blog\\pages\\destinations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|c:\\users\\anas qadora\\desktop\\travel blog\\travel blog\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|solutionrelative:travel blog\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|c:\\users\\anas qadora\\desktop\\travel blog\\travel blog\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|solutionrelative:travel blog\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|c:\\users\\anas qadora\\desktop\\travel blog\\travel blog\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481D68D6-EB12-49C7-AAC8-2C2B4E689EBA}|Travel Blog\\Travel Blog.csproj|solutionrelative:travel blog\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "Travel Blog\\Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\About.cshtml",
+              "RelativeToolTip": "Travel Blog\\Pages\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T04:15:19.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Destinations.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\Destinations.cshtml",
+              "RelativeDocumentMoniker": "Travel Blog\\Pages\\Destinations.cshtml",
+              "ToolTip": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\Destinations.cshtml",
+              "RelativeToolTip": "Travel Blog\\Pages\\Destinations.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T03:50:42.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Travel Blog\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Travel Blog\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T03:41:33.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Travel Blog\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Travel Blog\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T03:39:14.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\contact.cshtml",
+              "RelativeDocumentMoniker": "Travel Blog\\Pages\\contact.cshtml",
+              "ToolTip": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\contact.cshtml*",
+              "RelativeToolTip": "Travel Blog\\Pages\\contact.cshtml*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T21:15:01.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\blog.cshtml",
+              "RelativeDocumentMoniker": "Travel Blog\\Pages\\blog.cshtml",
+              "ToolTip": "C:\\Users\\Anas Qadora\\Desktop\\travel blog\\Travel Blog\\Pages\\blog.cshtml",
+              "RelativeToolTip": "Travel Blog\\Pages\\blog.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T21:14:36.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
