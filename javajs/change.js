@@ -8,6 +8,8 @@ document.addEventListener("DOMContentLoaded", function () {
     btnChangeColor.addEventListener("click", function () {
         document.body.classList.toggle("dark-mode");
         document.querySelector("header").classList.toggle("dark-mode");
+                document.querySelector("body").classList.toggle("dark-mode");
+
         document.querySelector("footer").classList.toggle("dark-mode");
 
         document.querySelectorAll(".card").forEach(el => el.classList.toggle("dark-mode"));
