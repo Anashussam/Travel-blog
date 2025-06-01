@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
         document.body.classList.toggle("dark-mode");
         document.querySelector("header").classList.toggle("dark-mode");
                 document.querySelector("body").classList.toggle("dark-mode");
+                 document.querySelector("iframe ").classList.toggle("dark-mode");
 
         document.querySelector("footer").classList.toggle("dark-mode");
 
